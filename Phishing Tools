@@ -1,0 +1,26 @@
+              ===== SOCIALPHISH =====
+              
+Use these commands for installing and running for creating phishing page ::
+               
+git clone https://github.com/xHak9x/SocialPhish.git
+cd SocialPhish
+chmod +x socialphish.sh
+./socialphish.sh
+
+OR instead of using last two commands you can directly use this command:
+
+bash socialphish.sh
+
+
+            ===== Zphisher =====
+            
+Use these commands for installing and running for creating phishing page ::
+
+git clone --depth=1 https://github.com/htr-tech/zphisher.git
+$ cd zphisher
+chmod +x zphisher.sh
+./zphisher.sh
+
+OR instead of using last two commands you can directly use this command:
+
+$ bash zphisher.sh
